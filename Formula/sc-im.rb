@@ -18,6 +18,7 @@ class ScIm < Formula
   end
 
   depends_on "libxlsxwriter"
+  depends_on "libxls"
   depends_on "libxml2"
   depends_on "libzip"
   depends_on "ncurses"
